@@ -1,5 +1,5 @@
+#include <stdio.h>
 #include "main.h"
-#include "holberton.h"
 
 /**
  * main - print the first 98 fibonacci numbers.

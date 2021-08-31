@@ -1,5 +1,5 @@
-#include "stdio.h"
-#include "holberton.h"
+#include <stdio.h>
+#include "main.h"
 
 /**
  * main - print sum of all even fibonacci numbers under 4x10^6
