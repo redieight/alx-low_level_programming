@@ -1,8 +1,3 @@
-0. A library is not a luxury but one of the necessities of life mandatory
-Create the static library libholberton.a containing all the functions listed
-below:
-
-1. Without libraries what have we? We have no past and no future mandatory
-Create a script called create_static_lib.sh that creates a static library called
-liball.a from all the .c files that are in the current directory.
-
+libmy.a: Is a static library for this project directory
+create_static_lib.sh: is a script that creates a static library called liball.a from all the .c files that are in the current directory.
+main.h: Is a prototype header file for this project directory.
